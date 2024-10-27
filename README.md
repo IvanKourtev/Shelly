@@ -13,4 +13,4 @@ For trigger example:
   }
 }
 
-You can access the API documentation via Swagger UI at the following URL: http://localhost:3000/api/webhooks.
+You can access the API documentation via Swagger UI at the following URL: http://localhost:3000/api-docs.
